@@ -1,4 +1,4 @@
-package io.buildpacks.example.sample;
+﻿package io.buildpacks.example.sample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,7 +8,7 @@ public class SampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SampleApplication.class, args);
-		System.out.println("I just want to be happy ！");
+		System.out.println("I just want to be happy ！！");
 	}
 
 }
